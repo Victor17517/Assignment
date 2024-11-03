@@ -1,0 +1,65 @@
+body{
+    background-color: lightcyan;
+}
+.start {
+    width: 490px;
+    height: 600px;
+    background-color: rgb(18, 34, 66);
+    margin-left: 350px;
+    border-radius: 15px;
+}
+.reg {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(12, 117, 183);
+    border-radius: 15px;
+    text-align: center;
+    height: 70px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    padding-top: 30px;
+    font-size: 40px;
+}
+input[type=text] {
+    padding: 12px;
+    margin: 10px;
+    width: 300px;
+    margin-left: 80px;
+    border-radius: 14px;
+    border: none;
+}
+input[type=checkbox] {
+    margin-left: 80px;
+    margin-top: 15px;
+    border: none;
+}
+p{
+    display: inline;
+    color: white;
+}
+p a {
+    text-decoration: none;
+    color:  rgb(12, 117, 183);
+}
+.button{
+    background-color:  rgb(12, 117, 183);
+    width: 100px;
+    margin-left: 190px;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 5px;
+    height: 25px;
+}
+.button a {
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding-top: 20px;
+    font-weight: bold;
+    
+}
+.ft {
+    color: black;
+    margin-left: 400px;
+    padding-top: 20px;
+}
