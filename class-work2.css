@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient( rgb(98, 16, 122), cyan) ;
+}
+.start {
+    width: 440px;
+    height: 490px;
+    background-color: rgb(29, 51, 95);
+    margin-left: 350px;
+    border-radius: 8px;
+}
+.reg {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(18, 34, 66);
+    border-radius: 8px;
+    text-align: center;
+    height: 50px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+    font-size: 30px;
+    padding-top: 10px;
+}
+input[type=text] {
+    padding: 12px;
+    margin: 10px;
+    width: 330px;
+    margin-left: 45px;
+    border-radius: 8px;
+    border: none;
+}
+input[type=checkbox] {
+    margin-left: 50px;
+    margin-top: 30px;
+    border: none;
+}
+.lor {
+    display: inline;
+    color: white;
+    font-size: 15px;
+}
+.button {
+    background-color: green;
+    width: 120px;
+    margin-top: 20px;
+    float: right;
+    margin-right: 35px;
+    text-align: center;
+    height: 30px;
+    border-radius: 5px;
+    padding-top: 8px;
+    
+}
+.button a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
